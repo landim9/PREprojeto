@@ -6,7 +6,7 @@
 Oferecemos tudo o que você precisa para alcançar seus objetivos de saúde e fitness. Nossa plataforma combina informações de especialistas em saúde, dicas de nutrição, programas de treinamento personalizados e muito mais. Seja você um entusiasta do fitness, um iniciante ou alguém em busca de uma transformação de estilo de vida, temos recursos para atender suas necessidades.
  
 ## Objetivo:
-Transforme seu corpo, eleve sua mente – saúde e fitness começam com uma escolha.
+O nosso site tem como objetivo transformar seu corpo, elevar sua mente – saúde e fitness começam com uma escolha.
 
 ## Produto: 
  Software Web Full Stack e Aplicativo Mobile, construir um relacionamento contínuo com os usuários, oferecendo conteúdos relevantes e personalizados, bem como incentivando a adesão a programas de saúde física.
